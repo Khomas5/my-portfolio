@@ -1,6 +1,6 @@
 {
-  "homepage": "http://Khomas5.github.io/portfolio",
-  "name": "my-app",
+  "homepage": "http://Khomas5.github.io/my-portfolio",
+  "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
